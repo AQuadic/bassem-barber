@@ -232,7 +232,7 @@ position: relative;
 }
 }
    footer{
-    background-image: url("./images/footor.png");
+    background-image: url("../images/footor.png");
     background-repeat: no-repeat;
     background-position: 0%;
     height: 240px;
