@@ -1,13 +1,13 @@
 
 @font-face {
   font-family: arfont;
-  src: url("../19304-alqabas-bold.ttf");
+  src: url("../font/alqabas-bold.ttf");
   
   font-style: normal;
 }
 @font-face {
   font-family: arfont2;
-  src: url('../19307-alqabas-regular.ttf');
+  src: url('../font/alqabas-regular.ttf');
   
   font-style: normal;
 }
