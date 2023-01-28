@@ -76,7 +76,8 @@ header h2{
   font-size: 36px;
 font-weight: bold;
 }
-header button{
+header a{
+  text-decoration: none;
   background-color: white;
   border: none;
   padding: 8px 6px 8px 20px;
@@ -94,7 +95,11 @@ header button{
   width: 200px;
   margin-top: 30px;
 }
-header button img{
+header a:hover{
+  color:#FFC600 ;
+
+}
+header a img{
   width: 18px;
 }
 .about{
