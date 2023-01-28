@@ -55,6 +55,7 @@ header {
   flex-direction: column;
   gap: 18px;
   padding: 40px 0px 100px;
+  text-align: center;
 } 
 img.img_back {
   position: absolute;
